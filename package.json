@@ -1,0 +1,38 @@
+{
+  "name": "@alexwg2015/tronlistener",
+  "version": "1.0.0",
+  "description": "A Trc20 Listener for Tron Chain.",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Wong-HK/tron-listener.git"
+  },
+  "keywords": [
+    "Tron",
+    "Web3",
+    "BlockChain",
+    "Listener"
+  ],
+  "author": "Alex-Wong-HK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Wong-HK/tron-listener/issues"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "tronweb": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.202",
+    "@types/node": "^20.11.23",
+    "typescript": "^5.3.3",
+    "@tsconfig/recommended": "^1.0.1"
+  },
+  "homepage": "https://github.com/Alex-Wong-HK/tron-listener#readme"
+}
