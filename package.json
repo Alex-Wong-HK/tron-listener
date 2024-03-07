@@ -1,6 +1,6 @@
 {
   "name": "@alexwg2015/tronlistener",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Trc20 Listener for Tron Chain.",
   "main": "dist/index.js",
   "files": [
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alex-Wong-HK/tron-listener.git"
+    "url": "https://github.com/Alex-Wong-HK/tron-listener.git"
   },
   "keywords": [
     "Tron",
