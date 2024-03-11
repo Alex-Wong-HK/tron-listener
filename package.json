@@ -1,6 +1,6 @@
 {
   "name": "@alexwg2015/tronlistener",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Trc20 Listener for Tron Chain.",
   "main": "dist/index.js",
   "files": [
@@ -25,14 +25,17 @@
     "url": "https://github.com/Alex-Wong-HK/tron-listener/issues"
   },
   "dependencies": {
+    "@alexwg2015/bip44-wallet": "^1.0.3",
+    "humpback-weboo": "^1.0.10",
+    "mp2heel": "^1.0.8",
     "axios": "^1.6.7",
     "tronweb": "^4.0.1"
   },
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
     "@types/lodash": "^4.14.202",
     "@types/node": "^20.11.23",
-    "typescript": "^5.3.3",
-    "@tsconfig/recommended": "^1.0.1"
+    "typescript": "^5.3.3"
   },
   "homepage": "https://github.com/Alex-Wong-HK/tron-listener#readme"
 }
